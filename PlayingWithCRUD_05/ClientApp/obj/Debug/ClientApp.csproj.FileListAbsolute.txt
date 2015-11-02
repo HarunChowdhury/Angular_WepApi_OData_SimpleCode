@@ -1,0 +1,5 @@
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_05\ClientApp\bin\ClientApp.dll.config
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_05\ClientApp\bin\ClientApp.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_05\ClientApp\bin\ClientApp.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_05\ClientApp\obj\Debug\ClientApp.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_05\ClientApp\obj\Debug\ClientApp.pdb

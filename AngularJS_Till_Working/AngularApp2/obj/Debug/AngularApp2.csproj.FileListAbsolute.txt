@@ -1,0 +1,91 @@
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\AngularApp2.dll.config
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\EntityFramework.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\EntityFramework.SqlServer.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.Helpers.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.Mvc.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.WebPages.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\EntityFramework.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\EntityFramework.SqlServer.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.Helpers.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.Mvc.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.WebPages.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\obj\Debug\AngularApp2.csprojResolveAssemblyReference.cache
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\obj\Debug\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularApp2\AngularApp2\obj\Debug\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\AngularApp2.dll.config
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\EntityFramework.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\EntityFramework.SqlServer.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.Helpers.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.Mvc.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.WebPages.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\EntityFramework.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\EntityFramework.SqlServer.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.Helpers.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.Mvc.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.WebPages.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\obj\Debug\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AN\AngularApp2\AngularApp2\obj\Debug\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\AngularApp2.dll.config
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.SqlServer.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.Helpers.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.Mvc.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.SqlServer.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.Helpers.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.Mvc.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\obj\Debug\AngularApp2.csprojResolveAssemblyReference.cache
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\obj\Debug\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\AngularJS_Till_Working\AngularApp2\obj\Debug\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\AngularApp2.dll.config
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\AngularApp2.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.SqlServer.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.Helpers.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.Mvc.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\EntityFramework.SqlServer.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.Helpers.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.Mvc.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\obj\Debug\AngularApp2.csprojResolveAssemblyReference.cache
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\obj\Debug\AngularApp2.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\New folder\AngularJS_Till_Working\AngularApp2\obj\Debug\AngularApp2.pdb

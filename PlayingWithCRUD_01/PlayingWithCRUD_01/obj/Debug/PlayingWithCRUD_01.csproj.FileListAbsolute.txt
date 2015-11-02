@@ -1,0 +1,17 @@
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\PlayingWithCRUD_01.dll.config
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\PlayingWithCRUD_01.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\PlayingWithCRUD_01.pdb
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\EntityFramework.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\EntityFramework.SqlServer.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\Newtonsoft.Json.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\System.Net.Http.Formatting.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\System.Web.Http.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\System.Web.Http.WebHost.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\EntityFramework.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\EntityFramework.SqlServer.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\Newtonsoft.Json.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\System.Net.Http.Formatting.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\System.Web.Http.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\bin\System.Web.Http.WebHost.xml
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\obj\Debug\PlayingWithCRUD_01.dll
+C:\Users\HARUN\Desktop\Najim Vai HW\PlayingWithCRUD_01\PlayingWithCRUD_01\obj\Debug\PlayingWithCRUD_01.pdb

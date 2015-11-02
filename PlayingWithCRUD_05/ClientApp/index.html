@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html ng-app="restDemo">
+<head>
+    <meta charset="UTF-8">
+    <title>Title of the document</title>
+
+    <script src="js/angular/angular.min.js"></script>
+    <script src="js/angular/angular-resource.min.js"></script>
+    <script src="js/app/app.js"></script>
+    <script src="js/app/restService.js"></script>
+</head>
+
+<body>
+
+    <div ng-controller="restController">
+
+
+        <div ng-repeat="person in persons">
+
+            <button ng-click="Get_Array()">GetArray()</button>
+            <!--<button ng-click="">GetArray()</button>
+                <button ng-click="">GetArray()</button>
+                <button ng-click="">GetArray()</button>-->
+            {{person.Id}}
+            {{person.Name}}
+            {{person.Address}}
+            {{person.Roll}}
+
+
+        </div>
+    </div>
+
+
+
+
+</body>
+
+</html>
